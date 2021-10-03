@@ -8,6 +8,8 @@ Angkatan    : 2020
 
 ## Tugas Pengolahan Citra Digital
 
+![Alt text](ResultGUI.png?raw=true "Title")
+
 - [x] PENJUMLAHA
 - [x] PENGURANGAN 
 - [x] PERKALIAN
