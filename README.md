@@ -10,7 +10,7 @@ Angkatan    : 2020
 
 ![Alt text](ResultGUI.png?raw=true "Title")
 
-- [x] PENJUMLAHA
+- [x] PENJUMLAHAN
 - [x] PENGURANGAN 
 - [x] PERKALIAN
 - [x] PEMBAGIAN
